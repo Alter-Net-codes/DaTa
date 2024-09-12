@@ -6,9 +6,9 @@ make sure you have python 3.12.5+ installed
 #### linux:
 most distro's this is pre-installed.
 #### windows:
-https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=US
+[install python for windows](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=US)
 ### next
-install the newest version from the version picker HERE (add link)
+install the newest version from the version's [HERE](https://github.com/Alter-Net-codes/DaTa/releases)
 ### finally
 run grabber.py (you can trough this trough terminal (linux) or terminal and file explorer (windows)
 ## founding date
