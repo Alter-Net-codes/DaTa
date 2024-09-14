@@ -3,7 +3,7 @@ DaTa the github data grabbing project by Alter Net codes. (yes this is open-sour
 ## how do i use data?
 ### first...
 make sure you have python 3.12.5+ installed. 
-also install [PyGithub](https://github.com/PyGithub/PyGithub)
+also install [PyGithub](https://github.com/PyGithub/PyGithub) (via pip)
 #### linux:
 most distro's this is pre-installed.
 #### windows:
