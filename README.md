@@ -9,7 +9,7 @@ most distro's this is pre-installed.
 #### windows:
 [install python for windows](https://apps.microsoft.com/detail/9ncvdn91xzqp?hl=en-us&gl=US)
 ### next
-install the newest version from the version's [HERE](https://github.com/Alter-Net-codes/DaTa/releases)
+install the newest version from the version's [HERE](https://github.com/Alter-Net-codes/DaTa/releases) YES the first version was just realesed.
 ### finally
 run grabber.py (you can trough this trough terminal (linux) or terminal and file explorer (windows)
 ## founding date
