@@ -11,7 +11,7 @@ github = Github(auth=auth)
 
 while True:
     # Prompt the user for the action they want to perform
-    print("\nFor this session, would you like to:")
+    print("\nwould you like to:")
     print("1. Open a repository URL")
     print("2. Search for GitHub repository contributors")
     choice = input("Enter your choice (1 or 2): ")
