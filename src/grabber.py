@@ -2,7 +2,7 @@ import webbrowser
 from github import Github
 from github import Auth
 
-# Prompt the user for their GitHub access token
+# Prompt the user for their GitHub access token (REQURED)
 access_token = input("Please enter your GitHub access token: ")
 
 # Authenticate using the provided token
