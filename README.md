@@ -12,8 +12,6 @@ most distro's this is pre-installed.
 install the newest version from the version's [HERE](https://github.com/Alter-Net-codes/DaTa/releases) YES the first version was just realesed.
 ### finally
 run grabber.py (you can trough this trough terminal (linux) or terminal and file explorer (windows)
-## founding date
-this project started 9/12/2024 by Webbrowser 11: [webbrowser11](https://github.com/webbrowser11/) becuase he wanted to make a easy way to get the data of any github repo but with help!
 ## contributing
 to contribute hit the fork button
 ### starting:
